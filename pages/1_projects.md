@@ -12,7 +12,9 @@ permalink: /projects/
 
 [https://tinglr.github.io](https://tinglr.github.io/)
   
-![While Group](static/img/WhileGroup_small.png)  
+![While Group](static\img\WhileGroup_small.png)  
+
+
 
 <img width="80" height="80" src="static/img/WhileGroup_small.png"/>
 
