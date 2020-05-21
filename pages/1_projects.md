@@ -14,6 +14,12 @@ permalink: /projects/
   
 ![While Group](static\img\WhileGroup_small.png)  
 
+![While Group](static/img/WhileGroup_small.png)  
+
+![While Group](img/WhileGroup_small.png)  
+
+![While Group](static/img/WhileGroup_small.png)  
+
 
 
 <img width="80" height="80" src="static/img/WhileGroup_small.png"/>
