@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: paracraft
+categories: 空模板
 ---
 
 ## 空模板
