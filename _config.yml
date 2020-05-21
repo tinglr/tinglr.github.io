@@ -18,8 +18,8 @@ viewsourceroot: https://github.com/tinglr/tinglr.github.io/blob/master/
 newsourceroot: https://github.com/tinglr/tinglr.github.io/new/master
 #########################################
 # for duoshuo.com commenting system, uncomment following line if you do not want to include duoshuo.com. 
-#duoshuo_shortname: lixizhi
-#duoshuo_url: "http://lixizhi.github.io"
+#duoshuo_shortname: tinglr
+#duoshuo_url: "http://tinglr.github.io"
 # disqus.com commenting system. please note that it is exclusive with duoshuo.com
 disqus_shortname: tinglr
 disqus_url: "http://tinglr.github.io"
