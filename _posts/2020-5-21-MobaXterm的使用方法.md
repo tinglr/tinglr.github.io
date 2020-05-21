@@ -13,6 +13,15 @@ categories: 嵌入式linux相关
 root  密码：a<br>
 a  密码：a<br>
 
+![SSH1]({{ site.url }}/static/img/MobaXterm的使用方法_SSH1.JPG)
+![SSH2]({{ site.url }}/static/img/MobaXterm的使用方法_SSH2.JPG)
+![SSH3]({{ site.url }}/static/img/MobaXterm的使用方法_SSH3.JPG)
+![SSH4]({{ site.url }}/static/img/MobaXterm的使用方法_SSH4.JPG)
+![SSH5]({{ site.url }}/static/img/MobaXterm的使用方法_SSH5.JPG)
 
 
 ### 2.串口远程登录开发板
+
+![串口1]({{ site.url }}/static/img/MobaXterm的使用方法_串口1.JPG)
+![串口2]({{ site.url }}/static/img/MobaXterm的使用方法_串口2.JPG)
+![串口3]({{ site.url }}/static/img/MobaXterm的使用方法_串口3.JPG)
