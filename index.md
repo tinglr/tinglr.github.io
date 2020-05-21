@@ -2,7 +2,12 @@
 layout: frontpage
 ---
 
-## Welcome to my website
+## 欢迎来到While Group工作室
 
-This is the place where I share my ideas on topics like [Paracraft](http://www.paracraft.cn) software design, artificial intelligence and education. 
-Feel free to send me emails or join our team. 
+**简单，艺术，激情**<br>
+**Life feeds on negative entropy**<br>
+
+资源整合，分布式协作，移动办公，自由创造，自由连接。<br>
+发送邮件加入我的团队！
+tinglr@foxmail.com<br>
+
