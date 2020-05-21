@@ -8,67 +8,54 @@ permalink: /projects/
 * content
 {:toc}
 
-# All my projects
-Following are projects started by me. 
+# - While Group工作室 #
 
-## NPL project
-* Started: 2004-present
-* Website: [www.nplproject.com](http://www.nplproject.com)
-   * NPL Code Wiki
-   * NPL language service and debugger
+[https://tinglr.github.io](https://tinglr.github.io/)
+  
+![While Group](png/WhileGroup_small.png)  
 
-NPL(Neural Parallel Language) is a new programming language. It was started as my exploration of coding logics in a networked environment.    
-Throughout the years, I have written over a million lines of code with it. All my other projects since 2005 is written in it. 
- 
+<img width="80" height="80" src="png/WhileGroup_small.png"/>
 
-## Paracraft
-* Started: 2012-present
-* Website: [www.paracraft.cn](http://www.paracraft.cn)
-   * [ParacraftSDK](https://github.com/LiXizhi/ParaCraftSDK)
-   * Self Learning College
+<br><br><br><br><br><br><br><br><br><br><br>
 
-Paracraft is a standalone 3d animation software for everyone. 
-It was my exploration of CAD(computer aided design) using the vision brain (i.e. your right brain).
-Paracraft is an extensible tool that everyone can learn to create videos and computer programs.
-I am using it to promote NPL language in self learning college to teach students programming.  
+###  **- 简介**
+
+**简单，艺术，激情**<br>
+**Life feeds on negative entropy**<br>
+
+资源整合，分布式协作，移动办公，自由创造，自由连接。<br>
+
+庶務：每月开一次分享会 输入 输出<br>
+庶務：每周登陆一次团队打卡连续<br>
+连续一直<br>
 
 
-## ParaEngine
-* Started: 2005-present
-* Website: [www.paraengine.com](http://www.paraengine.com)
-   * ParaEngine Developer Site (PEDN)
-   * MCML: a markup language to create GUI
-    
-ParaEngine is a 3d distributed game engine I wrote with C++/NPL. It has become the low-level code framework for all my other projects since 2005. 
-
-## Magic Haqi
-* Started: 2009-2014 (still operating)
-* Website: [haqi.61.com](http://haqi.61.com)
-   * user forum
-   * user videos
-
-Magic Haqi is a free/paid 3D MMORPG published by taomee in November, 2009, allowing kids to play, create and share 3d worlds. It has over 5 million registered users and tens of thousands of user created works in China. The software is developed and owned by the developers of Paracraft, but has nothing to do with Paracraft. The initial version of paracraft was developed as a module in Magic Haqi. We have valid contract with its publisher taomee for their use of paracraft and its source code. 
+<br><br><br><br><br><br><br><br><br><br><br>
 
 
-## Magic Haqi2
-* Started: 2012-2013 (still operating)
-* Website: [haqi2.61.com](http://www.61.com/haqi2/home.html)
+###  **- 成员**
 
-Same as Magic haqi. 
+#### **成员1**
 
-## ParaWorld
-* Started: 2007-2008
-* Website: closed
+tinglr<br>
+坐标：深圳<br>
+工作职位：电子工程师<br>
+工作经验：5年<br>
 
-It used to be hosted on www.pala5.cn. It is a community based world creation game. We did not manage to make it to the public, and closed the project. 
 
-## Kids Movie Creator
-* Started: 2006-2007
-* Website: [download link](http://kids-movie-creator.software.informer.com/)
+##### **参与的项目：**<br>
+（作为项目成员参与产品立项到量产全过程，分担项目部分设计工作）<br>
+   * 项目1.WiFi智能插座
+   * 项目2.CO一氧化碳报警器
+   * 项目3.(65W)PD/QC快充
+   
+#### **主创的项目：**
+（从立项到量产，承担主要软硬件设计工作）<br>
+   * 项目1.红外转发器
+   * 项目2.MODBUS主机/网关
+   * 项目3.HVAC温控器
 
-Kids Movie Creator is a very old shareware released in 2006, allowing kids to create 3d world and make movies. 
+#### **主要输出能力：**
 
-## Before 2005
-* Started: 1989-2005 (very old ones)
-* [Xizhi's old website before 2005](/oldsite2005/projects.htm). 
+<br><br><br><br><br><br><br><br><br><br><br>
 
