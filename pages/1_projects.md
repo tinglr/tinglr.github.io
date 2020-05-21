@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Projects
+title: 项目
 comments: true
 permalink: /projects/
 ---
@@ -12,25 +12,13 @@ permalink: /projects/
 
 [https://tinglr.github.io](https://tinglr.github.io/)
   
-![While Group](static\img\WhileGroup_small.png)  
+
+![WhileGroup]({{ site.url }}/static/img/WhileGroup_small.png)
 
 
+<img width="80" height="80" src="{{ site.url }}/static/img/WhileGroup_small.png"/>
 
-
-
-
-<figure>
-<a><img src="{{site.url}}/static/img/WhileGroup_small.png"></a>
-</figure>
-
-![image03](https://github.com/tinglr/tinglr.github.io/static/img/WhileGroup_small.png)
-
-![图片]({{ site.url }}/static/img/WhileGroup_small.png)
-
-
-<img width="80" height="80" src="static/img/WhileGroup_small.png"/>
-
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 ###  **- 简介**
 
@@ -44,7 +32,7 @@ permalink: /projects/
 连续一直<br>
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 
 ###  **- 成员**
@@ -71,7 +59,7 @@ tinglr<br>
 
 #### **主要输出能力：**
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 
 ----------
@@ -117,7 +105,7 @@ getconf LONG_BIT
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 ### **操作imx6ul的一些记录**
 
@@ -196,7 +184,7 @@ mv freetype2/freetype .
 ```
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 
 
@@ -216,7 +204,7 @@ mv freetype2/freetype .
 
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 
 
@@ -413,8 +401,7 @@ https://www.sigoo.com/
 https://www.logosc.cn/so/
 
 
-<br><br><br><br><br><br><br><br><br><br><br>
+<br>
 
 
 ----------
-
