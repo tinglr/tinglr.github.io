@@ -14,12 +14,18 @@ permalink: /projects/
   
 ![While Group](static\img\WhileGroup_small.png)  
 
-![While Group](static/img/WhileGroup_small.png)  
 
-![While Group](img/WhileGroup_small.png)  
 
-![While Group](static/img/WhileGroup_small.png)  
 
+
+
+<figure>
+<a><img src="{{site.url}}/static/img/WhileGroup_small.png"></a>
+</figure>
+
+![image03](https://github.com/tinglr/tinglr.github.io/static/img/WhileGroup_small.png)
+
+![图片]({{ site.url }}/static/img/WhileGroup_small.png)
 
 
 <img width="80" height="80" src="static/img/WhileGroup_small.png"/>
