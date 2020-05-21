@@ -17,7 +17,7 @@ permalink: /about/
 
 * 仓库ULR:https://github.com/tinglr/tinglr.github.io.git
 
-* 网址：https://tinglr.github.io
+* 网址：[https://tinglr.github.io](https://tinglr.github.io)<br>
 
 * 内容更新链接：[tinglr.github.io](https://github.com/tinglr/tinglr.github.io/edit/master/README.md)<br>
 
