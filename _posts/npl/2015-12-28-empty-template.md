@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: npl
+categories: 嵌入式linux相关
 ---
 
 ## 空模板
