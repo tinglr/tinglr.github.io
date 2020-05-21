@@ -4,6 +4,6 @@ comments: true
 categories: paracraft
 ---
 
-## Empty diary template
+## 空模板
 
-Empty post template
+空模板

@@ -4,6 +4,6 @@ comments: true
 categories: diary
 ---
 
-## Empty diary template
+## 空模板
 
-Empty post template
+空模板
