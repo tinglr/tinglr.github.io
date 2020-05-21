@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: diary
+categories: 嵌入式linux相关
 ---
 ## GitHub的ReadMe.md编辑语法
 一、标题写法：
