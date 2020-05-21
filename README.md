@@ -1,9 +1,5 @@
-# LiXizhi's Personal Website
-
-Runing on Github + Jekyll theme by [Gaohaoyang](https://github.com/Gaohaoyang/gaohaoyang.github.io)**
-
-# KeepWork
-Create Your Own Personal Website in Markdown. Visit http://keepwork.com 
+# 程小听的个人网站
 
 
+在（https://github.com/LiXizhi/lixizhi.github.io）的 Github + Jekyll主题上运行**
 
