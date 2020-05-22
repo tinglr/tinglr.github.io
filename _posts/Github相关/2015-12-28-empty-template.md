@@ -1,7 +1,7 @@
 ---
 layout: post
 comments: true
-categories: 空模板
+categories: Github相关
 ---
 
 ## 空模板
