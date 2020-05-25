@@ -11,14 +11,8 @@ permalink: /projects/
 # - While Group工作室 #
 
 [https://tinglr.github.io](https://tinglr.github.io/)
-  
 
 ![WhileGroup]({{ site.url }}/static/img/WhileGroup_small.png)
-
-
-<img width="80" height="80" src="{{ site.url }}/static/img/WhileGroup_small.png"/>
-
-<br>
 
 
 
@@ -38,14 +32,17 @@ tinglr<br>
 坐标：深圳<br>
 工作职位：电子工程师<br>
 工作经验：5年<br>
-
+专业：电气工程与自动化
+学位:工科学士学位
+主要工作方向：智能家居/物联网研发
+电子邮箱：tinglr@foxmail.com
 
 ##### **参与的项目：**<br>
 （作为项目成员参与产品立项到量产全过程，分担项目部分设计工作）<br>
    * 项目1.WiFi智能插座
    * 项目2.CO一氧化碳报警器
-   * 项目3.(65W)PD/QC快充
-   
+   * 项目3.(65W)PD/QC快充    功率分配控制IC HR7P153 MSOP10
+
 #### **主创的项目：**
 （从立项到量产，承担主要软硬件设计工作）<br>
    * 项目1.红外转发器
@@ -55,6 +52,11 @@ tinglr<br>
 #### **主要输出能力：**
 
 
+精通stm8系列单片机，stm32系列单片机，精通arm9(N32926),近期关注cortex-a7。
+精通Altium Designer。
+可独立完成电子产品软硬件设计。
 
+软件：精通C语言，熟悉Python语言
+嵌入式linux驱动，arm9新塘n32926
 
 ----------
