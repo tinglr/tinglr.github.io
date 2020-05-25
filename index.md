@@ -13,3 +13,6 @@ layout: frontpage
 发送邮件加入我的团队！
 tinglr@foxmail.com<br>
 
+内容更新链接：[tinglr.github.io](https://github.com/tinglr/tinglr.github.io)<br>
+
+
