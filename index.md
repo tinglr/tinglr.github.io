@@ -15,4 +15,7 @@ tinglr@foxmail.com<br>
 
 内容更新链接：[tinglr.github.io](https://github.com/tinglr/tinglr.github.io)<br>
 
+我的TiddlyWiki：[http://tinglr.tiddlyspot.com/](http://tinglr.tiddlyspot.com/)<br>
+
+
 
