@@ -51,11 +51,12 @@ ChengXiaoting<br>
 #### **主要输出能力：**
 
 
-精通stm8系列单片机，stm32系列单片机，精通arm9(N32926),近期关注cortex-a7。
-精通Altium Designer。
-可独立完成电子产品软硬件设计。
+精通stm8系列单片机，stm32系列单片机，东软载波HR7P153，新唐arm9(N32926)。<br>
+精通Altium Designer。<br>
+可独立完成电子产品软硬件设计。<br>
+近期关注cortex-a7。<br>
 
-软件：精通C语言，熟悉Python语言
-嵌入式linux驱动，arm9新塘n32926
+软件：精通C语言，熟悉Python语言<br>
+嵌入式linux驱动<br>
 
 ----------
