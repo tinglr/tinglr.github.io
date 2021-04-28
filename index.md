@@ -14,8 +14,7 @@ layout: frontpage
 发送邮件加入我的团队！
 tinglr@foxmail.com<br>
 
-内容更新链接：[tinglr.github.io](https://github.com/tinglr/tinglr.github.io)<br>
-
-
+停止更新网站：[tinglr.github.io](https://github.com/tinglr/tinglr.github.io)<br>
+新网站链接：[tinglr.gitee.io](https://tinglr.gitee.io/)<br>
 
 
